@@ -2,7 +2,7 @@
 # Programa principal
 # Maneja la interfaz de usuario en consola
 
-
+# main
 from modelos.producto import Producto
 from servicios.inventario import Inventario
 
