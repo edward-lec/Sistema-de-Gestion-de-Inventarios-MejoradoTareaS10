@@ -1,7 +1,7 @@
 
 # Clase Producto
 # Representa un producto dentro del inventario
-# creado por: Leiber Correa
+# creado por: Leiber Correa bravo
 
 class Producto:
     def __init__(self, codigo, nombre, cantidad, precio):
